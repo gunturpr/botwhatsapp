@@ -174,6 +174,7 @@ Follow The Steps Below!
 | Watak|✅|
 | Random Hobby|✅|
 | Simi|✅|
+| Slot|✅|
 
 | INFORMATION | YES |
 | :-----------------: | :-------: |
