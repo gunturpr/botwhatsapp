@@ -217,3 +217,7 @@ Follow The Steps Below!
 | Timer|✅|
 
 ---
+## Special Thanks To
+
+- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
+- [nazwaS](https://github.com/nazwaS)
